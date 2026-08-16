@@ -3,9 +3,9 @@
 
 A modern, responsive personal portfolio website built to showcase my projects, skills, education, and professional profile as a Full Stack Developer.
 
-🔗 **Live Demo:** portfolio-seven-phi-rzbzd6hb0t.vercel.app
+🔗 **Live Demo:**[ portfolio-seven-phi-rzbzd6hb0t.vercel.app
+](https://portfolio-seven-phi-rzbzd6hb0t.vercel.app/)
 
-![Portfolio Preview](profile.png)
 
 ---
 
